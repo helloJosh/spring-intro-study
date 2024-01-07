@@ -1,8 +1,8 @@
 # 스프링 입문 토이프로젝트 정리
 
-#### <사용 스택 버전>
-spring boot : 2.7.16
-H2 Database : 1.4.200
+### <사용 스택 버전>
+#### spring boot : 2.7.16
+#### H2 Database : 1.4.200
 
 ## 1. 클래스 구성도
 ![class diagram](https://github.com/helloJosh/spring-intro-study/assets/37134368/88c0ac24-f090-408c-84d5-899a3adcd7ac)
